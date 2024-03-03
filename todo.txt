@@ -1,0 +1,16 @@
+install channels
+first setup for asgi
+make sure it works as asgi
+then 
+authantication
+login
+logout
+signup
+then create app for rooms
+create superuser
+show list of rooms
+room details view
+creating a consumers
+joining a chat
+
+
